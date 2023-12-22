@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+![Header](./https://twitter.com/AlFahad44869780/photo)
 <h1 align="center">Hi 👋, I'm Md Abdullah Buhayia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://x.com/AlFahad44869780/status/1738254266132017200?s=20">
