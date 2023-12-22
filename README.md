@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Md Abdullah Buhayia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://twitter.com/AlFahad44869780/status/1738254266132017200)">
+
 
 <p align="left"> <img src="https://camo.githubusercontent.com/e27a2ea7c3ad94885c62a62c10c47080dfaa9432a2032cda73cba62fc6c7f25f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966 style=flat" alt="abdullahbuhayia" /> </p>
 
