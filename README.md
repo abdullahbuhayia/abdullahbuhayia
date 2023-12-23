@@ -1,4 +1,4 @@
-![Header](./img foe web (1) - Edited.png)
+![Header](.img foe web (1) - Edited.png)
 <h1 align="center">Hi 👋, I'm Md Abdullah Buhayia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966.gif">
