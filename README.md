@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **buhayia12@gmail.com**
 
-- ⚡ Fun fact **I love to watch Animation.**
+- ⚡ Fun fact **I love to watch Animation movies.**
 
 <p align="left"> <img src="https://camo.githubusercontent.com/e27a2ea7c3ad94885c62a62c10c47080dfaa9432a2032cda73cba62fc6c7f25f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966 style=flat" alt="abdullahbuhayia" /> </p>
 
