@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Md Abdullah Buhayia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montasiropi" alt="abdullahbuhayia" /></a> </p>
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React js **
@@ -14,7 +13,7 @@
 - 📫 How to reach me **buhayia12@gmail.com**
 
 - ⚡ Fun fact **I love to watch Animation movies.**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahbuhayia" alt="abdullahbuhayia" /></a> </p>
 <p align="left"> <img src="https://camo.githubusercontent.com/e27a2ea7c3ad94885c62a62c10c47080dfaa9432a2032cda73cba62fc6c7f25f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966 style=flat" alt="abdullahbuhayia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alfahad44869780" target="blank"><img src="https://img.shields.io/twitter/follow/alfahad44869780?logo=twitter&style=for-the-badge" alt="alfahad44869780" /></a> </p>
