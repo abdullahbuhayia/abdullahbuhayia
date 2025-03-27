@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966.gif">
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React js **
+- 🌱 I’m currently learning **Dart  **
 
 - 👨‍💻 All of my projects are available at [abdullahbuhayia](abdullahbuhayia)
 
-- 💬 Ask me about **C, C++,Java Script**
+- 💬 Ask me about **C, C++,Java Script, Dart**
 
 - 📫 How to reach me **buhayia12@gmail.com**
 
